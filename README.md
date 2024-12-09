@@ -101,4 +101,3 @@ To run the examples in this repository:
 ---
 
 Happy coding with TypeScript! 🎉
-``` 
